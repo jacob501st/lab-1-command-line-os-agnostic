@@ -192,7 +192,7 @@ lemon
 
 Use only one command to make all of these new directories.  Write what command you used below:
 ----------
-mkdir -p pineapple/orange/strawberry/lemon
+mkdir -p lemon/orange/strawberry/pineapple
 
 
 ==========
